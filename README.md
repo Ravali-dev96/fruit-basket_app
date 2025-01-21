@@ -17,7 +17,7 @@ grapefruit,2,yellow,bitter`
 
 **How to Run the application:**
 
-Download the file: [Fruit_script.zip](https://github.com/Ravali-dev96/fruite-basket_app/blob/main/Fruite_script.zip)
+Download the file: [Fruit_script.zip](https://github.com/Ravali-dev96/fruite-basket_app/blob/main/Fruit_script.zip)
 
 **For Windows users:**
 1. Extract the Fruit_script.zip
