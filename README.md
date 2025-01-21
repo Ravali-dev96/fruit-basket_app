@@ -17,24 +17,24 @@ grapefruit,2,yellow,bitter`
 
 **How to Run the application:**
 
-Download the file: [Fruite_script.zip](https://github.com/Ravali-dev96/fruite-basket_app/blob/main/Fruite_script.zip)
+Download the file: [Fruit_script.zip](https://github.com/Ravali-dev96/fruite-basket_app/blob/main/Fruite_script.zip)
 
 **For Windows users:**
-1. Extract the Fruite_script.zip
-2. Open the folder Fruite_script
+1. Extract the Fruit_script.zip
+2. Open the folder Fruit_script
 3. Open terminal and execute `run.bat <csv file path>`
    Example:`.\run.bat fruits.csv`
 
 **For Linux/Mac users:**
-1. Extract the Fruite_script.zip
-2. Open the directory cd Fruite_script
+1. Extract the Fruit_script.zip
+2. Open the directory cd Fruit_script
 3. Open terminal and execute `run.sh <csv file path>`
    Example:`.\run.sh fruits.csv`
 
 The above script will result in output similar to the below:
 
 
-Total number of fruit:
+`Total number of fruit:
 22
 
 Total types of fruit:
@@ -62,4 +62,4 @@ The various characteristics (count, color, shape, etc.) of each fruit by type:
 1 apple: green, tart
 1 watermelon: green, heavy
 1 apple: yellow, sweet
-1 orange: sweet, round
+1 orange: sweet, round`
