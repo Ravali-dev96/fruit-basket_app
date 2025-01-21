@@ -7,31 +7,31 @@ piece of fruit. The data representing a particular fruit include:
 • ad-hoc characteristic 1
 • ad-hoc characteristic 2
 leading to the following format:
-fruit-type,age-in-days,characteristic1,characteristic2
+`fruit-type,age-in-days,characteristic1,characteristic2
 apple,1,red,sweet
 orange,2,round,sweet
 pineapple,5,prickly,sweet
 apple,4,yellow,sweet
-grapefruit,2,yellow,bitter
+grapefruit,2,yellow,bitter`
 
 
 **How to Run the application:**
 
-Download the file:  https://github.com/Ravali-dev96/fruite-basket_app/blob/main/Fruite_script.zip
+Download the file: [Fruite_script.zip](https://github.com/Ravali-dev96/fruite-basket_app/blob/main/Fruite_script.zip)
 
 **For Windows users:**
 1. Extract the Fruite_script.zip
 2. Open the folder Fruite_script
-3. Open terminal and execute **run.bat <csv file path>**
-   Example:`.\run.bat fruits.csv
+3. Open terminal and execute `run.bat <csv file path>`
+   Example:`.\run.bat fruits.csv`
 
 **For Linux/Mac users:**
 1. Extract the Fruite_script.zip
 2. Open the directory cd Fruite_script
-3. Open terminal and execute **run.sh <csv file path>**
-   Example:`.\run.sh fruits.csv
+3. Open terminal and execute `run.sh <csv file path>`
+   Example:`.\run.sh fruits.csv`
 
-The above script will result in outut similar to the below:
+The above script will result in output similar to the below:
 
 
 Total number of fruit:
